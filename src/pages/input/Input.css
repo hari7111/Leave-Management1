@@ -1,0 +1,16 @@
+.input{
+    padding: 1rem;
+}
+
+.input input{
+    padding: 1rem;
+    width: 280px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    outline: none;
+}
+
+.input [type="button"]{
+    padding: .8rem;
+    width: 150px;
+}

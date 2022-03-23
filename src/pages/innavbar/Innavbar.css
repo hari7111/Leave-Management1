@@ -1,0 +1,22 @@
+.nav-items{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+}
+
+.nav-item{
+    padding: 1rem;
+}
+
+.nav-item a{
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: #0a2fff;
+    font-weight: bold;
+}
+
+.active{
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
